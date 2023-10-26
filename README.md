@@ -35,7 +35,7 @@ print(round(d,2))
 
 ### OUTPUT:
 
-![output](formula.JPG)
+![output](output.png)
 
 ### RESULT:
 
