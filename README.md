@@ -8,7 +8,8 @@ Clone the repository from github
 ### Step 2: 
 Assign the function command in the program
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.JPG)
+Substitute the values in the distance formula  ![formula](https://github.com/PremkumarG3/DISTANCE-BETWEEN-TWO-POINTS/assets/138955646/bd38a65a-bcfd-4b09-ad99-bbe1aeab6546)
+
 ### Step 4: 
 Print the round(d,2)
 ### Step 5:
