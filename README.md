@@ -38,8 +38,7 @@ print(round(d,2))
 
 
 ### OUTPUT:
-
-![output](output.png)
+![Screenshot 2023-10-26 142913](https://github.com/PremkumarG3/DISTANCE-BETWEEN-TWO-POINTS/assets/138955646/dd7c7a57-f607-411a-a6e6-274c0261d7f2)
 
 ### RESULT:
 
