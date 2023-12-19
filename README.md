@@ -21,6 +21,10 @@ End the program
 #Developed by:Prem Kumar G
 #RegisterNumber:23003614
 
+#Program to find the distance between two points.
+#Developed by:Prem Kumar G
+#RegisterNumber:23003614
+
 import math
 def distance(x1,y1,x2,y2):
      dx=x2-x1
